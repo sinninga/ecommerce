@@ -6,16 +6,36 @@
     justify-content: flex-end;
     align-items: center;
 }
+.links-container {
+    width: 50%;
+    height: 80px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
 
 .links {
-    margin-right: 50px;
+    margin-right: 20px;
+    margin-top: 10px;
     display: flex;
     align-items: center;
 }
 
 .links a {
     text-decoration: none;
-    color: white;
+    color: bisque;
     margin-left: 20px;
     font-size: 25px;
+}
+
+.site-name {
+    width: 50%;
+    margin-top: 10px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    color: bisque;
+    font-size: 35px;
+    font-family: cursive;
 }

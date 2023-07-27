@@ -1,0 +1,10 @@
+.img-wrapper {
+    height: 90vh;
+    background-color: black;
+}
+
+.feature-img {
+    height: 90vh;
+    width: 100vw;
+    filter: sepia(100%);
+}
