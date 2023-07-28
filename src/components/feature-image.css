@@ -24,8 +24,10 @@
     z-index: 2;
     scroll-behavior: smooth;
     transition: background-color 1s;
+    transition: color 0.3s;
 }
 
 .guitars-button:hover {
     background-color: red;
+    color: white;
 }
