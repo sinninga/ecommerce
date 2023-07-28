@@ -16,9 +16,9 @@
   }
   
   .product {
-    border: 2px solid grey;
-    box-shadow: 3px 3px 1px grey;
-    border-radius: 15px;
+    /* border: 2px solid rgb(218, 210, 210); */
+    box-shadow: 4px 4px 4px rgb(175, 168, 168);
+    border-radius: 10px;
     width: 300px;
     height: 350px;
     margin: 40px;

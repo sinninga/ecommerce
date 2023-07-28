@@ -12,6 +12,7 @@ import product11 from "./assets/rickenbacker.jpeg";
 import product12 from "./assets/sg.jpeg";
 import product13 from "./assets/strat.jpeg";
 import product14 from "./assets/telecaster.jpeg";
+import product15 from "./assets/squier.jpg";
 
 
 export const PRODUCTS = [
@@ -35,7 +36,7 @@ export const PRODUCTS = [
     },
     {
         id: 4,
-        productName: "Flying",
+        productName: "Flying V",
         price: 769.99,
         productImage: product4,
     },
@@ -65,7 +66,7 @@ export const PRODUCTS = [
     },
     {
         id: 9,
-        productName: "Les Paul",
+        productName: "Gibson Les Paul",
         price: 1399.99,
         productImage: product9,
     },
@@ -83,20 +84,26 @@ export const PRODUCTS = [
     },
     {
         id: 12,
-        productName: "SG",
+        productName: "Gibson SG",
         price: 899.99,
         productImage: product12,
     },
     {
         id: 13,
-        productName: "Strat",
+        productName: "Fender Stratocaster",
         price: 999.99,
         productImage: product13,
     },
     {
         id: 14,
-        productName: "Telecaster",
+        productName: "Fender Telecaster",
         price: 749.99,
         productImage: product14,
+    },
+    {
+        id: 15,
+        productName: "Squier",
+        price: 299.99,
+        productImage: product15,
     }
 ]
