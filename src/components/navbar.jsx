@@ -5,7 +5,7 @@ import "./navbar.css";
 
 export const Navbar = () => {
     return (
-        <div className="navbar">Navbar
+        <div className="navbar">
             <div className="site-name">
                 Vintage Guitars
             </div>
