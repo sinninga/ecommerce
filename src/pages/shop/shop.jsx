@@ -10,7 +10,7 @@ export const Shop = () => {
     <FeatureImage />
     <div className="shop">
         <div id="shop-title" className="shopTitle">
-            <h1 id="adam-shop">Adam's Shop</h1>
+            <h1 id="adam-shop">Vintage Guitars</h1>
         </div>
         <div className="products">
             {PRODUCTS.map((product) => (

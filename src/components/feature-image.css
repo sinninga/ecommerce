@@ -10,24 +10,24 @@
 .feature-img {
     height: 90vh;
     width: 100vw;
-    filter: sepia(100%);
+    filter: sepia(80%);
+    opacity: 70%;
 }
 
 .guitars-button {
-    color: black;
+    color: rgb(153, 31, 31);
     text-decoration: none;
-    background-color: white;
-    border: 5px solid white;
-    border-radius: 40px;
-    padding: 20px;
+    background-color: bisque;
+    border: 3px solid bisque;
+    border-radius: 15px;
+    padding: 15px;
     position: absolute;
     z-index: 2;
-    scroll-behavior: smooth;
-    transition: background-color 1s;
-    transition: color 0.3s;
+    opacity: 90%;
 }
 
 .guitars-button:hover {
-    background-color: red;
-    color: white;
+    background-color: rgb(153, 31, 31);
+    color: bisque;
+    border-color: bisque;
 }
