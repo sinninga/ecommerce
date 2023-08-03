@@ -6,7 +6,7 @@ import "./navbar.css";
 export const Navbar = () => {
     return (
         <div className="navbar">
-            <a href="/" className="site-name">
+            <a href="/ecommerce" className="site-name">
                 Vintage Guitars
             </a>
             <div className="links-container">
