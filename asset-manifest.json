@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ecommerce/static/css/main.2823cf7b.css",
+    "main.js": "/ecommerce/static/js/main.8dcf3e6b.js",
+    "static/media/guitars.jpg": "/ecommerce/static/media/guitars.a74a9da624368dcd5e5c.jpg",
+    "static/media/flying.jpeg": "/ecommerce/static/media/flying.1c72360aeb59f1f5d2ac.jpeg",
+    "static/media/jackson.jpeg": "/ecommerce/static/media/jackson.5c110e74edc364625ec7.jpeg",
+    "static/media/sg.jpeg": "/ecommerce/static/media/sg.80014d016511d40ac089.jpeg",
+    "static/media/rickenbacker.jpeg": "/ecommerce/static/media/rickenbacker.948761723cb654b9c21a.jpeg",
+    "static/media/charvel.jpeg": "/ecommerce/static/media/charvel.b3c2b53f699b1acf51de.jpeg",
+    "static/media/ibanez.jpeg": "/ecommerce/static/media/ibanez.88004d42af5fdb246960.jpeg",
+    "static/media/framus.jpeg": "/ecommerce/static/media/framus.2e712614ff74e4e9e072.jpeg",
+    "static/media/les_paul.jpeg": "/ecommerce/static/media/les_paul.10189003333571dce059.jpeg",
+    "static/media/gretsch.jpeg": "/ecommerce/static/media/gretsch.dd0d264adad55bab281b.jpeg",
+    "static/media/strat.jpeg": "/ecommerce/static/media/strat.14a976fa17cea4166d4b.jpeg",
+    "static/media/telecaster.jpeg": "/ecommerce/static/media/telecaster.2c23b70efbfcdc074678.jpeg",
+    "static/media/epiphone.jpeg": "/ecommerce/static/media/epiphone.e3119326906bb222027d.jpeg",
+    "index.html": "/ecommerce/index.html",
+    "main.2823cf7b.css.map": "/ecommerce/static/css/main.2823cf7b.css.map",
+    "main.8dcf3e6b.js.map": "/ecommerce/static/js/main.8dcf3e6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2823cf7b.css",
+    "static/js/main.8dcf3e6b.js"
+  ]
+}
