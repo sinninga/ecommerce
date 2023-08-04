@@ -14,8 +14,8 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path="/ecommerce" element={<Shop />} />
-          <Route path="/ecommerce/cart" element={<Cart />}/>
+          <Route path="/" element={<Shop />} />
+          <Route path="/cart" element={<Cart />}/>
         </Routes>
       </Router> 
       </ShopContextProvider>
