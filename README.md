@@ -16,4 +16,4 @@ This is a React application that allows users to search for vintage guitars and 
 
 **Setup**
 -
-visit https://sinninga.github.io/ecommerce
+Visit https://sinninga.github.io/ecommerce
